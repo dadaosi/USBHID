@@ -13,6 +13,7 @@
 #endif
 
 
+
 // CHIDUSBApp
 
 BEGIN_MESSAGE_MAP(CHIDUSBApp, CWinApp)
